@@ -1,0 +1,4 @@
+escripción del proyecto
+Los repositorios de control de versiones como CVS, Subversion o Git almacenan información detallada sobre la evolución de un proyecto de software. En este proyecto, se te desafiará a leer, limpiar y visualizar un conjunto de datos del mundo real de un repositorio Git del kernel de Linux. Con casi 700.000 commits y miles de colaboradores (descubre el número exacto en este proyecto ;-) ), encontrarás algunos desafíos de limpieza y manipulación de datos. Pero también obtendrás conocimientos sobre las actividades de desarrollo en los últimos 13 años.
+
+Para este proyecto, es necesario estar familiarizado con los DataFrames de Pandas, especialmente las funciones read_csv y groupby, así como trabajar con datos de series temporales.
